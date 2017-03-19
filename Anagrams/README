@@ -1,0 +1,3 @@
+An anagram of a sentence is formed by taking the occurrences of all the characters of all the words in the sentence, and producing all possible combinations of words with those characters, such that the words have to be from the dictionary.
+The number of words in the sentence and its anagrams does not have to correspond. For example, the sentence 'List("I", "love", "you")' is an anagram of the sentence 'List("You", "olive").
+Also, two sentences with the same words but in a different order are considered two different anagrams. For example, sentences 'List("You", "olive")' and 'List("olive", "you")' are different anagrams of 'List("I", "love", "you")'.
