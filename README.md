@@ -1,0 +1,2 @@
+# ScalaCoursera
+Exercises course
